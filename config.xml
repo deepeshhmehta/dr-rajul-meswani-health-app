@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0" id="com.driqbaal.patient" version="1.0.1">
+<widget xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0" id="com.drrajulmeswani.patient" version="1.0.1">
  
     <name>Diabetes care 365</name>
     <preference name="orientation" value="default" />
